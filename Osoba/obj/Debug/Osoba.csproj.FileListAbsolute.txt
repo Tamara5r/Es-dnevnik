@@ -1,0 +1,17 @@
+C:\Users\Korisnik\source\repos\Osoba\Osoba\obj\Debug\Osoba.csprojAssemblyReference.cache
+C:\Users\Korisnik\source\repos\Osoba\Osoba\obj\Debug\Osoba.Osoba.resources
+C:\Users\Korisnik\source\repos\Osoba\Osoba\obj\Debug\Osoba.Properties.Resources.resources
+C:\Users\Korisnik\source\repos\Osoba\Osoba\obj\Debug\Osoba.csproj.GenerateResource.cache
+C:\Users\Korisnik\source\repos\Osoba\Osoba\obj\Debug\Osoba.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\source\repos\Osoba\Osoba\bin\Debug\Osoba.exe.config
+C:\Users\Korisnik\source\repos\Osoba\Osoba\bin\Debug\Osoba.exe
+C:\Users\Korisnik\source\repos\Osoba\Osoba\bin\Debug\Osoba.pdb
+C:\Users\Korisnik\source\repos\Osoba\Osoba\obj\Debug\Osoba.exe
+C:\Users\Korisnik\source\repos\Osoba\Osoba\obj\Debug\Osoba.pdb
+C:\Users\Korisnik\source\repos\Osoba\Osoba\obj\Debug\Osoba.Glavna.resources
+C:\Users\Korisnik\source\repos\Osoba\Osoba\obj\Debug\Osoba.Login.resources
+C:\Users\Korisnik\source\repos\Osoba\Osoba\obj\Debug\Osoba.sifarnik.resources
+C:\Users\Korisnik\source\repos\Osoba\Osoba\obj\Debug\Osoba.raspodela.resources
+C:\Users\Korisnik\source\repos\Osoba\Osoba\obj\Debug\Osoba.upisnica.resources
+C:\Users\Korisnik\source\repos\Osoba\Osoba\obj\Debug\Osoba.Glavna2.resources
+C:\Users\Korisnik\source\repos\Osoba\Osoba\obj\Debug\Osoba.Ocena.resources
